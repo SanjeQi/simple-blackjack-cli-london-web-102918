@@ -25,6 +25,7 @@ end
 def initial_round
   deal_card = card1
   deal_card = card2
+  card_total = card1 + card2
   
 end
 
